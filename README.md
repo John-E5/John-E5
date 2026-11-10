@@ -27,7 +27,7 @@ Right now that's **[drift-ci](https://github.com/Drift-CI/drift-ci)**. It runs y
 ### Tools I use
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,vue,dotnet,cs,python,aws,azure,cloudflare,postgres,docker,kubernetes,terraform,githubactions&perline=9&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cnestjs%2Cvue%2Cdotnet%2Ccs%2Cpython%2Caws%2Cazure%2Ccloudflare%2Cpostgres%2Cdocker%2Ckubernetes%2Cterraform%2Cgithubactions&perline=9&theme=dark">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,vue,dotnet,cs,python,aws,azure,cloudflare,postgres,docker,kubernetes,terraform,githubactions&perline=9&theme=light" alt="TypeScript, JavaScript, React, Next.js, Node.js, NestJS, Vue, .NET, C#, Python, AWS, Azure, Cloudflare, PostgreSQL, Docker, Kubernetes, Terraform, GitHub Actions">
 </picture>
 

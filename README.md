@@ -34,10 +34,10 @@ Right now that's **[drift-ci](https://github.com/Drift-CI/drift-ci)**. It runs y
 ### Latest writing
 
 <!-- BLOG:START -->
+- [Drift-CI vs DeepEval: LLM regression testing compared](https://drift-ci.com/blog/drift-ci-vs-deepeval) · 16 Nov 2026
+- [Drift-CI vs promptfoo: LLM regression testing compared](https://drift-ci.com/blog/drift-ci-vs-promptfoo) · 16 Nov 2026
 - [Anthropic SDK: "temperature: Extra inputs are not permitted"](https://drift-ci.com/blog/anthropic-sdk-temperature-not-permitted) · 7 Nov 2026
 - [How to run LLM evals in GitHub Actions](https://drift-ci.com/blog/llm-evals-github-actions) · 7 Nov 2026
-- [LLM regression testing: a practical guide](https://drift-ci.com/blog/llm-regression-testing-guide) · 7 Nov 2026
-- [LLM evaluation tools compared for CI (2026)](https://drift-ci.com/blog/llm-regression-testing-tools-compared) · 7 Nov 2026
 <!-- BLOG:END -->
 
 <!-- OSS:START -->
